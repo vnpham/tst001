@@ -1,0 +1,1 @@
+{"build": "py37_0", "build_number": 0, "depends": ["python >=3.7,<3.8.0a0", "python-dateutil"], "license": "Apache-2.0", "license_family": "Apache", "name": "arrow", "subdir": "linux-64", "timestamp": 1601735543978, "version": "0.15.6", "size": 103859, "md5": "0783f3f85c993cd406a3a4d56b7e9558", "sha256": "1501ae41fc81cceedd28d8c4b47f87e548fd997a40ae937cbfa8458217ccd26a"}

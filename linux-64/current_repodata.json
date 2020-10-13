@@ -1,0 +1,27 @@
+{
+  "info": {
+    "subdir": "linux-64"
+  },
+  "packages": {
+    "arrow-0.15.6-py37_0.tar.bz2": {
+      "build": "py37_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.7,<3.8.0a0",
+        "python-dateutil"
+      ],
+      "license": "Apache-2.0",
+      "license_family": "Apache",
+      "md5": "0783f3f85c993cd406a3a4d56b7e9558",
+      "name": "arrow",
+      "sha256": "1501ae41fc81cceedd28d8c4b47f87e548fd997a40ae937cbfa8458217ccd26a",
+      "size": 103859,
+      "subdir": "linux-64",
+      "timestamp": 1601735543978,
+      "version": "0.15.6"
+    }
+  },
+  "packages.conda": {},
+  "removed": [],
+  "repodata_version": 1
+}
